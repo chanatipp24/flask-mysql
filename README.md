@@ -6,10 +6,9 @@ flask run
 or 
 python -m flask run
 
-FOR HOT RELOAD in development
-set FLASK_ENV=development
-set FLASK_APP=app.py      
-flask --app app.py --debug run           
-or
-python -m flask --app app.py --debug run
----------------------------------------
+FOR HOT RELOAD in development<br>
+set FLASK_ENV=development<br>
+set FLASK_APP=app.py      <br>
+flask --app app.py --debug run   <br>        
+or<br>
+python -m flask --app app.py --debug run<br>
