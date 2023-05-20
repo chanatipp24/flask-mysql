@@ -6,7 +6,7 @@ flask run
 or 
 python -m flask run
 
--- FOR HOT RELOAD in development --
+//FOR HOT RELOAD in development//
 set FLASK_ENV=development
 set FLASK_APP=app.py      
 flask --app app.py --debug run           
